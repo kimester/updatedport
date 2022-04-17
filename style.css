@@ -1,0 +1,42 @@
+* {
+    font-family: 'Open Sans', sans-serif;;
+  color: #a1887f;
+  }
+  
+ 
+  
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+
+
+  }
+  
+  main {
+    flex: 1 0 auto;
+  }
+  
+  img {
+      max-width:400px;
+      max-height:400px;
+  }
+  
+  
+  
+    ul {
+      margin: 2.5rem auto;
+      font-size: 1.5rem;
+      padding: 0;
+      list-style-type: none;
+    }
+    
+    ul li {
+      margin: 1.2rem 0;
+    }
+    
+    footer {
+      color:#bcaaa4;
+      border-top:5px solid #efebe9;
+      
+    }
