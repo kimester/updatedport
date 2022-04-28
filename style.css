@@ -1,6 +1,7 @@
 * {
     font-family: 'Open Sans', sans-serif;;
   color: #a1887f;
+  font-size:25px;
   }
   
  
@@ -19,7 +20,7 @@
   
   img {
       max-width:400px;
-      max-height:400px;
+      height:auto;
   }
   
   
